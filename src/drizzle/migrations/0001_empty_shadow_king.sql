@@ -1,0 +1,1 @@
+ALTER TABLE "employee_project" DROP COLUMN IF EXISTS "id";
